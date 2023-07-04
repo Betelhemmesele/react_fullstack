@@ -1,0 +1,23 @@
+{
+    "development": {
+        "username": "root",
+        "password": "mountain",
+        "database": "fullldb",
+        "host": "localhost",
+        "dialect": "mysql"
+    },
+    "test": {
+        "username": "root",
+        "password": "mountain",
+        "database": "fullldb",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    },
+    "production": {
+        "username": "root",
+        "password": "mountain",
+        "database": "fullldb",
+        "host": "127.0.0.1",
+        "dialect": "mysql"
+    }
+}
